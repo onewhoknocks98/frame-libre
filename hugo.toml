@@ -1,0 +1,8 @@
+baseURL = 'https://onewhoknocks98.github.io/frame-libre/'
+languageCode = 'es-es'
+title = 'Frame Libre'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
